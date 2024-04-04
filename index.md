@@ -1,21 +1,27 @@
-#HTML
-Hypertext
+# HTML
 
-Markup
+*Hypertext*
 
-Tag
-Atributos
-Language
+*Markup*
+- Tag 
+- Atributos
 
-#CSS
+*Language*
+
+
+# CSS
 Cascading StyleSheet
 
+```css
 /* declarações */
 body {
   background-color: #121214;
   color: #ffffff;
 }
-#JavaScript
+```
+
+# JavaScript
+```js
 // variaveis
 const mensagem = `Oi, tudo bem?`
 // tipos de dados
@@ -47,3 +53,4 @@ for(let participante of participantes) {
   // faça alguma coisa aqui
   // enquanto tiver participantes nessa lista
 }
+```
